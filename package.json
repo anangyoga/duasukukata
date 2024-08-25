@@ -10,6 +10,8 @@
   "author": "anangyoga",
   "license": "ISC",
   "devDependencies": {
-    "tailwindcss": "^3.4.10"
+    "tailwindcss": "^3.4.10",
+    "webpack": "^5.94.0",
+    "webpack-cli": "^5.1.4"
   }
 }
