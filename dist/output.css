@@ -663,6 +663,10 @@ video {
   font-weight: 100;
 }
 
+.font-semibold{
+  font-weight: 600;
+}
+
 .tracking-wider{
   letter-spacing: 0.05em;
 }
