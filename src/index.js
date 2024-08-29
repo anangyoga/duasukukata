@@ -2,6 +2,12 @@ const kata = document.getElementById("kata");
 const button = document.getElementById("button");
 
 const duaSukuKata = [
+  "Mama",
+  "Nara",
+  "Lari",
+  "Kamu",
+  "Kami",
+  "Sama",
   "Buku",
   "Toko",
   "Kita",
@@ -426,7 +432,6 @@ const duaSukuKata = [
   "Jaka",
   "Lupa",
   "Gara",
-  "Kita",
   "Rama",
   "Taka",
   "Mina",
